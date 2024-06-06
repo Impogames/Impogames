@@ -1,0 +1,7 @@
+discord-bot/
+├── bot.py
+├── requirements.txt
+└── .github/
+    └── workflows/
+        └── bot.yml
+
