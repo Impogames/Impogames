@@ -37,4 +37,4 @@ async def meme(interaction: discord.Interaction, attachment: discord.Attachment)
     # Wysłanie odpowiedzi do użytkownika
     await interaction.response.send_message(f'Załącznik {attachment.filename} został wysłany na kanał {channel.mention} przez {interaction.user.mention}', ephemeral=True)
 
-client.run('YOUR_TOKEN_HERE')
+client.run('MTE2Nzc2MDU4MzExOTA5NzkzOA.GUFhBq.hpv_ZVW3UCkLcEIN2A_fpxMVvF2hZuNjlm5EUQ')
